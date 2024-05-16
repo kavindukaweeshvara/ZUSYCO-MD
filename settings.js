@@ -36,16 +36,16 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ༺༒☜𝗮𝗻𝗷ͥ𝗲𝗹𝗮Ӂ𝗸𝗶ͣ𝗻ͫ𝗴☞☬༒༻ ²⁰²⁴',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[ ꧁༺silͥent bͣoͫt༻꧂༒⁶⁶⁶ ]',
   BAD_WORDS : 'fuck,pussy,porn,sex',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
         BLOCK : false,
-        NOT_WORKING : false,
+        NOT_WORKING : true,
   },
   READ : {
      ALL_MESSAGES : true,
@@ -56,7 +56,7 @@ module.exports = {
   INBOX_BLOCK : false,
   AUTO_REACT : true,
   OWNER_REACT : '⚜️',
-  AUTO_BGM : false,
+  AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
